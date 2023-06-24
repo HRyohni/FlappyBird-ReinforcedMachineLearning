@@ -17,6 +17,9 @@ enviroment can be shown in real time enabling **env.render()** and **sleep** met
 ## Statistics
 
 Statistics can be shown at the end of learning. Statistics show **Episode reward**, **Episode lengths**, **Traning Error** and **Score Timeline** 
+[testing proces](https://github.com/HRyohni/FlappyBird-ReinforcedMachineLearning/blob/main/Statistic%20Testing/Testing%20and%20Learning.md)
+
+
 
 ![](https://cdn.discordapp.com/attachments/1083688555534098473/1118973198340472932/Figure_1.png)
 
